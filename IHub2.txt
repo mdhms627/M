@@ -1,0 +1,67 @@
+﻿#EXTM3U
+
+#EXTINF:-2 group-title="Bangla"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png",Atn Bangla
+http://cdn.ihub.live:8080/ATNBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-3 group-title="Bangla"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4j_C0iPd9806-_OKZoHfGl5-5j-WmvRyRgw&usqp=CAU",Bangla Vision
+http://cdn.ihub.live:8080/BanglaVision/tracks-v1a1/mono.m3u8
+#EXTINF:-4 group-title="Bangla"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png",Channel 9
+http://cdn.ihub.live:8080/j-Channel9/tracks-v1a1/mono.m3u8
+#EXTINF:-5 group-title="Bangla"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png",Channel 24
+http://cdn.ihub.live:8080/Channel24/tracks-v1a1/mono.m3u8
+#EXTINF:-6 group-title="Bangla"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQdIVl-LYdz_cFaiTy9ZuzNkRkJ2dyrdPfnA&usqp=CAU",Channel I
+http://cdn.ihub.live:8080/ChannelI/tracks-v1a1/mono.m3u8
+#EXTINF:-7 group-title="Bangla"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqpaELcGGIQLQ5PmXlTiCZY4z75Fqal8Vsxw&usqp=CAU",DBC News
+http://cdn.ihub.live:8080/DBCNews/tracks-v1a1/mono.m3u8
+
+#EXTINF:-9 group-title="Bangla"tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Desh_tv.png",Desh TV
+http://cdn.ihub.live:8080/j-DeshTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-12 group-title="Bangla"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent TV
+http://cdn.ihub.live:8080/IndependentTV/tracks-v1a1/mono.m3u8
+#EXTINF:-13 group-title="Bangla"tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/JamunaTV_logo.jpg",Jamuna TV
+http://cdn.ihub.live:8080/j-JamunaTV/tracks-v1a1/mono.m3u8
+#EXTINF:-14 group-title="Bangla"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfx-bEQ3macnIZuO_JzbQo-g7xZChVynBSxQ&usqp=CAU",RTV
+http://cdn.ihub.live:8080/RTV/tracks-v1a1/mono.m3u8
+#EXTINF:-15 group-title="Bangla"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo4WA25vho8qkL68pjxunkF_6YofataOL3mA&usqp=CAU",SA TV
+http://cdn.ihub.live:8080/SATV/tracks-v1a1/mono.m3u8
+#EXTINF:-16 group-title="Bangla"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0QRZDPBBMbwgNPmrTr6dGEY0XIHLW0MDhXA&usqp=CAU",Anondo TV
+http://cdn.ihub.live:8080/AnandaTv/tracks-v1a1/mono.m3u8
+#EXTINF:-17 group-title="Bangla"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-xVb-Ect_PcrZkEL_DyfrnfdKEhjV9OX5dg&usqp=CAU",Somoy TV
+http://cdn.ihub.live:8080/SomoyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-18 group-title="Bangla"tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg",News24
+http://cdn.ihub.live:8080/News24/tracks-v1a1/mono.m3u8
+#EXTINF:-19 group-title="Bangla"tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Bangla_Tv_Logo.jpg",Bangla TV
+http://cdn.ihub.live:8080/j-BanglaTV/tracks-v1a1/mono.m3u8
+#EXTINF:-20 group-title="Sports"tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png",Ten 1
+http://cdn.ihub.live:8080/SonyTen1/tracks-v1a1/mono.m3u8
+#EXTINF:-21 group-title="Sports"tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png",Ten 2
+http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-24 group-title="Sports"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKsfinweqDVYoUAfPxFMNBybi2BfxRdIzNdA&usqp=CAU",Six
+http://cdn.ihub.live:8080/SonySix/tracks-v1a1/mono.m3u8
+#EXTINF:-33 group-title="Kolkata"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwfKHMXs3wEon1FMQXKPeTtex6seen25do8w&usqp=CAU",Sony Aath
+http://cdn.ihub.live:8080/SonyAath/tracks-v1a1/mono.m3u8
+
+#EXTINF:-39 group-title="Bangla"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png",Bijoy Tv
+http://cdn.ihub.live:8080/j-BijoyTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-49 group-title="Bangla"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkCisBn_7O-01EeuQoiZ4Yjb0LwpKc9LoaWg&usqp=CAU",ATN News
+http://cdn.ihub.live:8080/ATNNews/tracks-v1a1/mono.m3u8
+#EXTINF:-50 group-title="Bangla"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLSFD7SEaGxLRF1D6AOPk79Kq1wdh63IqMsA&usqp=CAU",Mohona TV
+http://cdn.ihub.live:8080/MohonaTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-56 group-title="Bangla"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlqbLcathzfaW5wtyXbqttdPTn60evbbH8AA&usqp=CAU",My TV
+http://cdn.ihub.live:8080/MyTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-61 group-title="Bangla"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png",Boishakhi TV
+http://cdn.ihub.live:8080/BoishakhiTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-84 group-title="Bangla"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt5NWzAYDahCjhHKbgj7RDlFyE8bw_v2IOGg&usqp=CAU",BTV World
+http://cdn.ihub.live:8080/j-BTVWorld/tracks-v1a1/mono.m3u8
+
+#EXTINF:-88 group-title="Bangla"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs9Mm-gs4OPg0HenZW44HM7muaoWZrkq2Kzw&usqp=CAU",Sangsod Bangladesh
+http://cdn.ihub.live:8080/SangsadTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-102 group-title="Sports"tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports
+http://cdn.ihub.live:8080/TSportsHD/tracks-v1a1/mono.m3u8
+
