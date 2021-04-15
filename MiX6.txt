@@ -1,4 +1,7 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_VO9nALu9kSo8veqnoyn2HfnRlG-zStfNEw&usqp=CAU" group-title="IPL", GTV
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUc9JqU4yWFBQfCiPDk8Q5b74nT-oGe3AAoQ&usqp=CAU" group-title="IPL", Star Sports 1
 https://ipl-live.s3.ap-south-1.amazonaws.com/pkcast123.me_1/index2.m3u8
 
