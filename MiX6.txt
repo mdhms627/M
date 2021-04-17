@@ -1,6 +1,9 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_VO9nALu9kSo8veqnoyn2HfnRlG-zStfNEw&usqp=CAU" group-title="IPL", GTV
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF_6tcPDJ1YH89iGa8sk_oCE18wDaNc3pDig&usqp=CAU" group-title="IPL", IPL HD
+https://rootercwpoc.akamaized.net/hls/3046cd18b1f983bf103b81a10d81f084/mid.m3u84i3uGETgp-e-Jis6uT0WisOO3jb05zXbKwg9wQDz8xdHzEsirM1RVxpOvnVAIGrg4LHQCBAAxQTjAkq4fBOtgud_NYHLY2-G6KM7Qn1AHYLNksur3vmohrKFnhNkA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF_6tcPDJ1YH89iGa8sk_oCE18wDaNc3pDig&usqp=CAU" group-title="IPL", IPL SD
+https://rootercwpoc.akamaized.net/hls/3046cd18b1f983bf103b81a10d81f084/mid.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUc9JqU4yWFBQfCiPDk8Q5b74nT-oGe3AAoQ&usqp=CAU" group-title="IPL", Star Sports 1
 https://ipl-live.s3.ap-south-1.amazonaws.com/pkcast123.me_1/index2.m3u8
