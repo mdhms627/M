@@ -1,10 +1,6 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF_6tcPDJ1YH89iGa8sk_oCE18wDaNc3pDig&usqp=CAU" group-title="IPL", IPL [HD]
-https://rootercwpoc.akamaized.net/hls/3046cd18b1f983bf103b81a10d81f084/mid.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF_6tcPDJ1YH89iGa8sk_oCE18wDaNc3pDig&usqp=CAU" group-title="IPL", IPL [SD]
-https://rootercwpoc.akamaized.net/hls/3046cd18b1f983bf103b81a10d81f084/mid.m3u8
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF_6tcPDJ1YH89iGa8sk_oCE18wDaNc3pDig&usqp=CAU" group-title="IPL", IPL
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1618860778/ei/ioZ9YMP4Et-qz7sP7P-y6A0/ip/103.71.43.72/id/rGTrmQEOY5A.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/2160/maudio/1/gcr/bd/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAN7aAvLdrq3F1bqdr1cBLtMY5Kc0YzOvamLP0gCn4elPAiEA9xeioWuY60xtJNU6s8lvwEA_ThzQJvsogU4mW1VXP2A%3D/file/index.m3u
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUc9JqU4yWFBQfCiPDk8Q5b74nT-oGe3AAoQ&usqp=CAU" group-title="IPL", Star Sports 1
 https://ipl-live.s3.ap-south-1.amazonaws.com/pkcast123.me_1/index2.m3u8
