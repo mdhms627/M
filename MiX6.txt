@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF_6tcPDJ1YH89iGa8sk_oCE18wDaNc3pDig&usqp=CAU" group-title="[IPL]", Ipl
-http://tiny.cc/ipl-m3u8
+https://streamcdnin.getloconow.com/SZ027U1VKF_ec42b108-f920-46d9-9914-8ea11218325c/SZ027U1VKF_ec42b108-f920-46d9-9914-8ea11218325c_low/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe76Ztw0G8TdyrXDE6Mfn6dnumTj3RhPg3Kg&s" group-title="Hindi", Sony Max HD
 http://208.115.215.42/SonY_Max_HD/tracks-v1a1/mono.m3u8
