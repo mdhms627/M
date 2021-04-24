@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe76Ztw0G8TdyrXDE6Mfn6dnumTj3RhPg3Kg&s" group-title="Hindi", Sony Max HD
-http://208.115.215.42/SonY_Max_HD/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="Cartoon", Baby First
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist.m3u8
 
