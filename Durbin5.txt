@@ -1,0 +1,26 @@
+﻿#EXTM3U
+
+#EXTINF:-1 group-title="Infotainments"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZtdGXPiWPxlcc-CWFmJvQaqOm5UYge4dpXQ&usqp=CAU",Discovery
+https://itvorigin.multitvsolution.com/idvo/discoveryhindi.m3u8
+
+#EXTINF:-1 group-title="English"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwh9O1VlsxTCa5AKWthZry_Onfq5o07GrJYg&usqp=CAU",Zee Cafe
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe76Ztw0G8TdyrXDE6Mfn6dnumTj3RhPg3Kg&s" group-title="Hindi", Sony Max
+http://208.115.215.42/SonY_Max_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="English"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZDjuxrFrWldIYRwhGvKihLWFnh8IuLTMTgg&usqp=CAU",& Prive
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDQ4oJYGpB0gyAel6jnQQfpQY4lczeLOY1Ag&usqp=CAU" group-title="Hindi", Zee Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Kolkata"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ60N1o4i2GdcG4SM29IsrSF1LOsqc2fHselg&usqp=CAU",Zee Bangla Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Sony_SAB.svg/revision/latest/scale-to-width-down/200?cb=20200717140818" group-title="Hindi", Sony Sab
+http://208.115.215.42/SonY_Sab_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKsfinweqDVYoUAfPxFMNBybi2BfxRdIzNdA&usqp=CAU" group-title="Hindi", Sony Six
+http://208.115.215.42/SonY_Six_HD/tracks-v1a1/mono.m3u8
+
