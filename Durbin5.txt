@@ -18,6 +18,6 @@ https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Kolkata"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ60N1o4i2GdcG4SM29IsrSF1LOsqc2fHselg&usqp=CAU",Zee Bangla Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKsfinweqDVYoUAfPxFMNBybi2BfxRdIzNdA&usqp=CAU" group-title="Hindi", Sony Six
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKsfinweqDVYoUAfPxFMNBybi2BfxRdIzNdA&usqp=CAU" group-title="Sports", Sony Six
 http://208.115.215.42/SonY_Six_HD/tracks-v1a1/mono.m3u8
 
