@@ -1,5 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="none" group-title="IPL Live",IPL--------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="none" group-title="Bangladeshi",BD------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="none" group-title="BDIX Server 1",Server1-----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="none" group-title="BDIX Server 2",Server2-----------------------------------------------------------------------------------------------------------
@@ -1902,22 +1901,6 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-NATGEOWILD/tracks-v1a1/index.m3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="none" tvg-country="IN" tvg-url="" group-title="Documentary",SONY BBC EARTH HD
 http://pn.tvott.info:80/307254552277/307254552277/83952
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU" group-title="IPL Live",Gazi TV (IPL Live Only)
-http://tiny.cc/ipl-m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU" group-title="IPL Live",Gazi TV (IPL Live Only) 2
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1619712518/ei/poWKYO70IMm63LUPsfmY-AQ/ip/103.71.43.83/id/rGTrmQEOY5A.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/2160/maudio/1/gcr/bd/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgcjJElFx4sHq4NBFil1fLoADv2gvQdeibU22qUA9bk90CIC_EtArAPUViazvm6twux_iASVSvOhh-bzgAgj-nW92D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 1
-http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/661
-#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 2
-http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/122
-#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 3
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 4
-http://10.16.100.207:8082/sports/starsports_select1.m3u8
-#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 5
-http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/08/IPL-Logo.jpg" group-title="IPL Live",Live 6
-http://103.205.133.21/hls/chss1.m3u8
 
 
 
