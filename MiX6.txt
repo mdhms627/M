@@ -411,6 +411,10 @@ https://itvorigin.multitvsolution.com/idvo/tlceng.m3u8
 
 
 
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Sports", CHANNEL 9 HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 
@@ -426,8 +430,20 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="Sports", Sony Ten 1
+http://212.102.60.40:2200/R-EX/SPORTS_TEN_1_HD-in/tracks-v1a1/mono.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2_Masthead_Logo.png" group-title="Sports", Sony Ten 2
 http://212.102.60.40:2200/R-EX/SPORTS_TEN_2_HD-in/tracks-v1a1/mono.m3u8
+
 
 
 
