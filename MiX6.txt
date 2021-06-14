@@ -408,6 +408,9 @@ http://gargoyle.tomkow.pl/hls/tvt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="Infotainments", TLC [ENGLISH]
 https://itvorigin.multitvsolution.com/idvo/tlceng.m3u8
 
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Sports", CHANNEL 9 HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 
@@ -419,6 +422,22 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuU6Nxq7TV2GL_StL--Uo137rSOCG3T2mp5KrW6o3KrcVInHtV&usqp=CAU" group-title="Sports", AD Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2_Masthead_Logo.png" group-title="Sports", Sony Ten 2
+http://212.102.60.40:2200/R-EX/SPORTS_TEN_2_HD-in/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ERFDaE4.png" group-title="Sports", AD Sports 3
 https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
