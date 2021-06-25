@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="none" group-title="Sports",ES----------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="none" group-title="Bangladeshi",BD------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="none" group-title="BDIX Server 1",Server1-----------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="none" group-title="BDIX Server 2",Server3-----------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="none" group-title="MTV HD",Server3-----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="none" group-title="Toffee Server",Server1-----------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="none" group-title="BD IPTV",BD----------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="none" group-title="Documentary",DC------------------------------------------------------------------------------------------------------------------
@@ -16,6 +16,278 @@
 #EXTINF:-1 tvg-logo="none" group-title="Mix",M---------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="none" group-title="Ityadi",IT-----------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="none" group-title="FM Radio",F----------------------------------------------------------------------------------------------------------------------
+
+
+
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",ATN Bangla
+
+http://103.81.104.118/hls/stream17.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Channel 24
+
+http://103.81.104.118/hls/stream22.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Channel I
+
+http://103.81.104.118/hls/stream18.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Maasranga
+
+http://103.81.104.118/hls/stream20.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Nagorik
+
+http://103.81.104.118/hls/stream24.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Somoy
+
+http://103.81.104.118/hls/stream21.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Colors Bangla HD
+
+http://103.81.104.118/hls/stream28.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Enterr 10 Bangla
+
+http://103.81.104.118/hls/stream26.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Jalsha Movies HD
+
+http://103.81.104.118/hls/stream27.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Star Jalsha HD
+
+http://103.81.104.118/hls/stream31.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Zee Bangla HD
+
+http://103.81.104.118/hls/stream30.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",And Pictures HD
+
+http://103.81.104.118/hls/stream14.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Colors Cineplex HD
+
+http://103.81.104.118/hls/stream29.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Sony Max HD
+
+
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Star Gold HD
+
+http://103.81.104.118/hls/stream19.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Star Plus HD
+
+http://103.81.104.118/hls/stream38.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",UTV Action
+
+http://103.81.104.118/hls/stream7.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Zee Cinema HD
+
+http://103.81.104.118/hls/stream25.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",9XM
+
+http://103.81.104.118/hls/stream4.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Zoom
+
+http://103.81.104.118/hls/stream8.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Nick
+
+http://103.153.175.254:8080/hls/stream23.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Sony Yay
+
+http://103.81.104.118/hls/stream32.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",BBC Earth
+
+http://103.81.104.118/hls/stream5.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Discovery Bangla HD
+
+http://103.81.104.118/hls/stream9.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",National Geographic Bangla HD
+
+http://103.81.104.118/hls/stream13.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Travel XP Bangla HD
+
+http://103.81.104.118/hls/stream37.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",AXN
+
+http://103.81.104.118/hls/stream2.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Sony Pix HD
+
+http://103.81.104.118/hls/stream1.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Star Movies
+
+http://103.81.104.118/hls/stream3.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",PTV Sports
+
+http://103.81.104.118/hls/stream11.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Sony Ten 1 HD
+
+http://103.81.104.118/hls/stream40.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Sony Ten 2 HD
+
+http://103.81.104.118/hls/stream39.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Sony Six HD
+
+http://103.81.104.118/hls/stream10.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Star Sports 1 HD
+
+http://103.81.104.118/hls/stream15.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Star Sports 2 HD
+
+http://103.81.104.118/hls/stream16.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Star Sports Select 1 HD
+
+http://103.81.104.118/hls/stream12.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Ten Cricket
+
+http://103.81.104.118/hls/stream34.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Al Jazeera
+
+http://103.81.104.118/hls/stream35.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",BBC World
+
+http://103.81.104.118/hls/stream36.m3u8
+
+#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Macca
+
+http://103.81.104.118/hls/stream33.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",ATN Bangla
+http://103.213.238.70:80/ATNBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",ATN News
+http://103.213.238.70:80/ATNNews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Banglavision
+http://103.213.238.70:80/BanglaVision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Boishakhi
+http://103.213.238.70:80/BoishakhiTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",BTV World
+http://103.213.238.70:80/BTVWorld/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Channel 24
+http://103.213.238.70:80/Channel24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Channel I
+http://103.213.238.70:80/ChannelI/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",DBC News
+http://103.213.238.70:80/DBCNews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Deepto TV
+http://103.213.238.70:80/DeeptoTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Ekattor TV
+http://103.213.238.70:80/EkattorTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Ekushey TV
+http://103.213.238.70:80/EkusheyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Gaan Bangla
+http://103.213.238.70:80/GaanBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Gazi TV
+http://103.213.238.70:80/GaziTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Independent TV
+http://103.213.238.70:80/IndependentTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Mohona TV
+http://103.213.238.70:80/MohonaTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",My TV
+http://103.213.238.70:80/MyTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Nagorik TV
+http://103.213.238.70:80/NagorikTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",News 24
+http://103.213.238.70:80/News24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",SATV
+http://103.213.238.70:80/SATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Somoy TV
+http://103.213.238.70:80/SomoyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Al Jazeera
+http://103.213.238.70:80/Aljazeera/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Animal Planet
+http://103.213.238.70:80/AnimalPlanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",TLC HD
+http://103.213.238.70:80/TLCHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Nick Jr.
+http://103.213.238.70:80/Nick/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Sony Yay
+http://103.213.238.70:80/SonyYay/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",And Prive HD
+http://103.213.238.70:80/&privatehd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Bflix
+http://103.213.238.70:80/Bflix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Dubai One
+http://103.213.238.70:80/DubaiOne/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Sony TV
+http://103.213.238.70:80/j-SonyTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Sony Max HD
+http://103.213.238.70:80/SonyMaxHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Sony Pix
+http://103.213.238.70:80/SonyPix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Sony SAB
+http://103.213.238.70:80/SonySAB/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Star Jalsha
+http://103.213.238.70:80/j-star-jalsha/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Star Gold HD
+http://103.213.238.70:80/j-star-gold-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Star Plus
+http://103.213.238.70:80/j-star-plus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Zee Bangla
+http://103.213.238.70:80/ZeeBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Zee Bangla
+http://103.213.238.70:80/ZeeBanglaCinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Zee Cinema
+http://103.213.238.70:80/ZeeCinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",AD Sports 1
+http://103.213.238.70:80/ADSPORTS1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",AD Sports 2
+http://103.213.238.70:80/ADSPORTS2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",AD Sports 3
+http://103.213.238.70:80/ADSPORTS3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",AD Sports 4
+http://103.213.238.70:80/ADSPORTS4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Sony Six
+http://103.213.238.70:80/SonySix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Sony Ten 1
+http://103.213.238.70:80/SonyTen1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Sony Ten 2
+http://103.213.238.70:80/SonyTen2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",Sony Ten 3
+http://103.213.238.70:80/SonyTen3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",T Sports
+http://103.213.238.70:80/j-TSports/tracks-v1a1/mono.m3u8
+
+
+
+
+
 #EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="Bangladeshi",1.Anando TV
 http://iptvbd.jagobd.com:1931/boishakhi/anandatv.stream/chunks.m3u8
 #EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="Bangladeshi",2.Asian TV
@@ -889,102 +1161,6 @@ http://103.205.133.19/hls/tsports.m3u8
 #EXTINF:-25 group-title="BDIX Server 1"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUc9JqU4yWFBQfCiPDk8Q5b74nT-oGe3AAoQ&usqp=CAU",Star Sports 1 [1]
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" group-title="BDIX Server 1",Star Sports 2 HD [1]
-
-
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",ATN Bangla [3]
-http://103.213.238.70:80/ATNBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",ATN News [3]
-http://103.213.238.70:80/ATNNews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Banglavision [3]
-http://103.213.238.70:80/BanglaVision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Boishakhi [3]
-http://103.213.238.70:80/BoishakhiTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",BTV World [3]
-http://103.213.238.70:80/BTVWorld/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Channel 24 [3]
-http://103.213.238.70:80/Channel24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Channel I [3]
-http://103.213.238.70:80/ChannelI/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",DBC News [3]
-http://103.213.238.70:80/DBCNews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Deepto TV [3]
-http://103.213.238.70:80/DeeptoTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Ekattor TV [3]
-http://103.213.238.70:80/EkattorTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Ekushey TV [3]
-http://103.213.238.70:80/EkusheyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Gaan Bangla [3]
-http://103.213.238.70:80/GaanBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Gazi TV [3]
-http://103.213.238.70:80/GaziTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Independent TV [3]
-http://103.213.238.70:80/IndependentTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Mohona TV [3]
-http://103.213.238.70:80/MohonaTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",My TV [3]
-http://103.213.238.70:80/MyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Nagorik TV [3]
-http://103.213.238.70:80/NagorikTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",News 24 [3]
-http://103.213.238.70:80/News24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",SATV [3]
-http://103.213.238.70:80/SATV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Somoy TV [3]
-http://103.213.238.70:80/SomoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Al Jazeera [3]
-http://103.213.238.70:80/Aljazeera/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Animal Planet [3]
-http://103.213.238.70:80/AnimalPlanet/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",TLC HD [3]
-http://103.213.238.70:80/TLCHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Nick Jr. [3]
-http://103.213.238.70:80/Nick/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Sony Yay [3]
-http://103.213.238.70:80/SonyYay/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",And Prive HD [3]
-http://103.213.238.70:80/&privatehd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Bflix [3]
-http://103.213.238.70:80/Bflix/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Dubai One [3]
-http://103.213.238.70:80/DubaiOne/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Sony TV [3]
-http://103.213.238.70:80/j-SonyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Sony Max HD [3]
-http://103.213.238.70:80/SonyMaxHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Sony Pix [3]
-http://103.213.238.70:80/SonyPix/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Sony SAB [3]
-http://103.213.238.70:80/SonySAB/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Star Jalsha [3]
-http://103.213.238.70:80/j-star-jalsha/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Star Gold HD [3]
-http://103.213.238.70:80/j-star-gold-hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Star Plus [3]
-http://103.213.238.70:80/j-star-plus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Zee Bangla [3]
-http://103.213.238.70:80/ZeeBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Zee Bangla [3]
-http://103.213.238.70:80/ZeeBanglaCinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Zee Cinema [3]
-http://103.213.238.70:80/ZeeCinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",AD Sports 1 [3]
-http://103.213.238.70:80/ADSPORTS1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",AD Sports 2 [3]
-http://103.213.238.70:80/ADSPORTS2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",AD Sports 3 [3]
-http://103.213.238.70:80/ADSPORTS3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",AD Sports 4 [3]
-http://103.213.238.70:80/ADSPORTS4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Sony Six [3]
-http://103.213.238.70:80/SonySix/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Sony Ten 1 [3]
-http://103.213.238.70:80/SonyTen1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Sony Ten 2 [3]
-http://103.213.238.70:80/SonyTen2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Sony Ten 3 [3]
-http://103.213.238.70:80/SonyTen3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",T Sports [3]
-http://103.213.238.70:80/j-TSports/tracks-v1a1/mono.m3u8
 
 
 
@@ -2751,166 +2927,6 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadi
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 
 
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",ATN Bangla [3]
-
-http://103.81.104.118/hls/stream17.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Channel 24 [3]
-
-http://103.81.104.118/hls/stream22.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Channel I [3]
-
-http://103.81.104.118/hls/stream18.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Maasranga [3]
-
-http://103.81.104.118/hls/stream20.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Nagorik [3]
-
-http://103.81.104.118/hls/stream24.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Somoy [3]
-
-http://103.81.104.118/hls/stream21.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Colors Bangla HD [3]
-
-http://103.81.104.118/hls/stream28.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Enterr 10 Bangla [3]
-
-http://103.81.104.118/hls/stream26.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Jalsha Movies HD [3]
-
-http://103.81.104.118/hls/stream27.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Star Jalsha HD [3]
-
-http://103.81.104.118/hls/stream31.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Zee Bangla HD [3]
-
-http://103.81.104.118/hls/stream30.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",And Pictures HD [3]
-
-http://103.81.104.118/hls/stream14.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Colors Cineplex HD [3]
-
-http://103.81.104.118/hls/stream29.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Sony Max HD [3]
-
-
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Star Gold HD [3]
-
-http://103.81.104.118/hls/stream19.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Star Plus HD [3]
-
-http://103.81.104.118/hls/stream38.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",UTV Action [3]
-
-http://103.81.104.118/hls/stream7.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Zee Cinema HD [3]
-
-http://103.81.104.118/hls/stream25.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",9XM [3]
-
-http://103.81.104.118/hls/stream4.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Zoom [3]
-
-http://103.81.104.118/hls/stream8.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Nick [3]
-
-http://103.153.175.254:8080/hls/stream23.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Sony Yay [3]
-
-http://103.81.104.118/hls/stream32.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",BBC Earth [3]
-
-http://103.81.104.118/hls/stream5.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Discovery Bangla HD [3]
-
-http://103.81.104.118/hls/stream9.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",National Geographic Bangla HD [3]
-
-http://103.81.104.118/hls/stream13.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Travel XP Bangla HD [3]
-
-http://103.81.104.118/hls/stream37.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",AXN [3]
-
-http://103.81.104.118/hls/stream2.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Sony Pix HD [3]
-
-http://103.81.104.118/hls/stream1.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Star Movies [3]
-
-http://103.81.104.118/hls/stream3.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",PTV Sports [3]
-
-http://103.81.104.118/hls/stream11.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Sony Ten 1 HD [3]
-
-http://103.81.104.118/hls/stream40.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Sony Ten 2 HD [3]
-
-http://103.81.104.118/hls/stream39.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Sony Six HD [3]
-
-http://103.81.104.118/hls/stream10.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Star Sports 1 HD [3]
-
-http://103.81.104.118/hls/stream15.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Star Sports 2 HD [3]
-
-http://103.81.104.118/hls/stream16.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Star Sports Select 1 HD [3]
-
-http://103.81.104.118/hls/stream12.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Ten Cricket [3]
-
-http://103.81.104.118/hls/stream34.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Al Jazeera [3]
-
-http://103.81.104.118/hls/stream35.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",BBC World [3]
-
-http://103.81.104.118/hls/stream36.m3u8
-
-#EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="BDIX Server 2",Macca [3]
-
-http://103.81.104.118/hls/stream33.m3u8
 
 
 
