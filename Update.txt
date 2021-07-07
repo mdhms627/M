@@ -17,8 +17,9 @@
 #EXTINF:-1 tvg-logo="none" group-title="Ityadi",IT-----------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="none" group-title="FM Radio",F----------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXLrGUrv4be0QcIV_tTCYcE2P1A4uCiCdtw&usqp=CAU" group-title="Extra Sports", Link-1
-https://sonydaime.akamaized.net/hls/live/2022322/MA7/hdntl=exp=1625708985~acl=%2f*~id=0086907efef1409592dadfa73c89e61d-1625621939830-2107070139190421225~data=hdntl~hmac=d664fd34ede8ca07284b824bf01e727fbc06239050061a31a30f9edb223fb6c4/master_3628.m3u8?aka_me_session_id=AAAAAAAAAAC5WeZgAAAAAPEP3aY0cgLAGxrkHHm9xww4zEfiGSGixpLyzKrUcfCFQColGBQ4Y2YF8zYHVZ+7uWVYQzSY4x8e&aka_media_format_type=hls&hdnea=exp=1625622751~acl=/*~id=0086907efef1409592dadfa73c89e61d-1625621939830-2107070139190421225~hmac=e7399a344bddb2215a59c6716f3ecafa5bb174048ec4816a064f9561369b0acc
+
+#EXTINF:-2 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXLrGUrv4be0QcIV_tTCYcE2P1A4uCiCdtw&usqp=CAU" group-title="Extra Sports", Link-2
+https://sonydaime.akamaized.net/hls/live/2022322/MA7/hdntl=exp=1625708985~acl=%2f*~id=0086907efef1409592dadfa73c89e61d-1625621939830-2107070139190421225~data=hdntl~hmac=d664fd34ede8ca07284b824bf01e727fbc06239050061a31a30f9edb223fb6c4/master_964.m3u8?aka_me_session_id=AAAAAAAAAAC5WeZgAAAAAPEP3aY0cgLAGxrkHHm9xww4zEfiGSGixpLyzKrUcfCFQColGBQ4Y2YF8zYHVZ+7uWVYQzSY4x8e&aka_media_format_type=hls&hdnea=exp=1625622751~acl=/*~id=0086907efef1409592dadfa73c89e61d-1625621939830-2107070139190421225~hmac=e7399a344bddb2215a59c6716f3ecafa5bb174048ec4816a064f9561369b0acc
 
 
 #EXTINF:0 tvg-language="Masrur" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="MTV HD",ATN Bangla
