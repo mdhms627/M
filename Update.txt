@@ -1844,3 +1844,21 @@ http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t6
 http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="none" group-title="United states",Leominster TV Government
 http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957
+
+
+#EXTINF:0 tvg-language="" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="Sports",Live 1
+http://stream2.grandma.fit/fs2.m3u8
+#EXTINF:0 tvg-language="" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="Sports",Live 2
+http://tv.pmcon.net/hls/stream10.m3u8
+#EXTINF:0 tvg-language="" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="Sports",Live 3
+http://199.66.95.242:80/3/3096/index.m3u8?token=test
+#EXTINF:0 tvg-language="" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="Sports",Live 4
+http://tv.pmcon.net/hls/stream40.m3u8
+#EXTINF:0 tvg-language="" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="Sports",Live 5
+https://sonydaime.akamaized.net/hls/live/2022322/MA7/hdntl=exp=1626051507~acl=%2f*~id=1c4ab47b15cc41a1b9d379d97ae457cb-1625964971312~data=hdntl~hmac=f9722e2797692b7848b90187ee49105d26851729400d01312dce350bc14b29ab/master_3628.m3u8?aka_me_session_id=AAAAAAAAAACzk+tgAAAAAEefbRO4nEMEyITejCjDxjD72diPNgjud+Yeyo5Hg2r97brcoSpFdQfmXnOAICbHy3U+I5uOqeyy&aka_media_format_type=hls&hdnea=exp=1625965279~acl=/*~id=1c4ab47b15cc41a1b9d379d97ae457cb-1625964971312~hmac=525c7915cd42f40c178f83e9064865027511dbde76dc5fb4429b6df92bfd308a
+#EXTINF:0 tvg-language="" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="Sports",Live 6
+http://199.66.95.242:80/3/3094/index.m3u8?token=test
+#EXTINF:0 tvg-language="" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="Sports",Live 7
+http://tv.pmcon.net/hls/stream39.m3u8
+#EXTINF:0 tvg-language="" tvg-logo="https://cdn.wapka.org/002r36/f5c95470c8b0e37379c5b480f58a1f6a/20210319_135448.jpg" group-title="Sports",Live 8
+http://93.157.62.180/Supersport2/index.m3u8
