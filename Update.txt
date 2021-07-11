@@ -8,7 +8,7 @@ http://199.66.95.242:80/3/3096/index.m3u8?token=test
 #EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/1ug6ycykymgd46q/final2.jpg?raw=1" group-title="Argentina vs Brazil Final [06:00am]",Live 4
 http://tv.pmcon.net/hls/stream40.m3u8
 #EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/1ug6ycykymgd46q/final2.jpg?raw=1" group-title="Argentina vs Brazil Final [06:00am]",Live 5
-http://199.66.95.242:80/3/3093/index.m3u8?token=test
+https://sonydaime.akamaized.net/hls/live/2022322/MA7/hdntl=exp=1626051507~acl=%2f*~id=1c4ab47b15cc41a1b9d379d97ae457cb-1625964971312~data=hdntl~hmac=f9722e2797692b7848b90187ee49105d26851729400d01312dce350bc14b29ab/master_3628.m3u8?aka_me_session_id=AAAAAAAAAACzk+tgAAAAAEefbRO4nEMEyITejCjDxjD72diPNgjud+Yeyo5Hg2r97brcoSpFdQfmXnOAICbHy3U+I5uOqeyy&aka_media_format_type=hls&hdnea=exp=1625965279~acl=/*~id=1c4ab47b15cc41a1b9d379d97ae457cb-1625964971312~hmac=525c7915cd42f40c178f83e9064865027511dbde76dc5fb4429b6df92bfd308a
 #EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/1ug6ycykymgd46q/final2.jpg?raw=1" group-title="Argentina vs Brazil Final [06:00am]",Live 6
 http://199.66.95.242:80/3/3094/index.m3u8?token=test
 #EXTINF:0 tvg-language="" tvg-logo="https://www.dropbox.com/s/1ug6ycykymgd46q/final2.jpg?raw=1" group-title="Argentina vs Brazil Final [06:00am]",Live 7
