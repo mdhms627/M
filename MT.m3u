@@ -1,0 +1,13 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png"group-title="MT",Gazi TV
+http://tv.maguraplex.net:8000/live/gazitvhd1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Sports18_official_logo.png/200px-Sports18_official_logo.png"group-title="MT",Sports18
+http://tv.maguraplex.net:8000/live/sports18/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://toffeelive.com/assets/images/ic_splash_logo_gif.gif"group-title="MT",Toffee
+http://tv.maguraplex.net:8000/live/toffee/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png"group-title="MT",T Sports
+http://tv.maguraplex.net:8000/live/tsports/index.m3u8
