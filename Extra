@@ -1,0 +1,471 @@
+#EXTM3U 
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", &pictures HD
+http://175.107.244.52:4455/play/a00s/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", &PRIVE HD
+http://175.107.244.52:4455/play/a00x/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", 24 hrs tv2
+http://178.128.60.200:80/hls/stream2.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", 8XM MUSIC
+http://144.217.70.181:9587/hin2/8XM/tracks-v1a1/mono.m3u8?token=test
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", A SPORT 🇹🇷
+https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Aaj Tak
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", AB Ananda Barta
+http://5dd3981940faa.streamlock.net:1935/abnews/abnews/chunklist_w644394347.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Amar Bangla
+http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", ANIMAL PLAN HD
+http://175.107.244.52:4455/play/a00m/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", arabic fifa
+http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2532/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Ary Digital HD
+http://208.86.19.13:81/627.stream/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Asian TV
+http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", ATN Bangla
+http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", ATN Bangla
+http://208.86.19.13:81/626.stream/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", ATN Bangla
+http://87.212.248.44:60230/play/a05g/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", ATN Islamic TV
+http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", ATN Music
+http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", B4U Movies
+http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", B4U MOVIES
+http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", B4U Music
+http://208.86.19.13:81/733.stream/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", B4U MUSIC
+http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8?token=test
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Bangla 21 TV
+http://iptvbd.jagobd.com:1931/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", BANGLA 21 TV
+https://cdn.appv.jagobd.com:444/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Bangla Jago
+http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Bangla TV
+http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", BANGLA VISION
+http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", BanglaVision
+http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", BARSA TV
+http://154.62.74.29:1935/live/barza/chunklist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", BBC News
+http://ip2121.com:8081/live/bbc/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", BBC WORLD
+http://175.107.244.52:4455/play/a021/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", BEIN SPORT 3 🇬🇧
+http://175.107.244.52:4457/play/a06x/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Bein Sports 1 English
+http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", beIN Sports 2 English HD 🇬🇧
+http://175.107.244.52:4457/play/a06z/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Bein Sports 5 Arabic 🇶🇦
+http://175.107.244.52:4457/play/a06y/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Bein Sports Xtra
+https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Bein Sports 🇶🇦
+http://175.107.244.52:4457/play/a070/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Boishakhi Plus
+http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Boishakhi TV
+http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", BTV World
+http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", CANAL SPORTS 10 🇳🇮
+http://138.117.4.70:8075/channel10/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", CBC SPORT  🇦🇿
+http://135.125.234.9:8081/cbcsport/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", CCN BANGLA
+http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", CCTV5_China
+http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", CGTN
+http://iptv.prosto.tv:7000/ch84/video.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", CGTN Documentary
+http://livedoc.cgtn.com/1000d/prog_index.m3u8?checkedby:D4N-IPTV
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Channel 24
+http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Channel 9
+http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Channel I
+http://208.86.19.13:81/653.stream/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Channel S UK
+http://208.86.19.13:81/519.stream/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", CNN
+http://ip2121.com:8081/live/cnn/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", CNN INTL
+http://175.107.244.52:4455/play/a020/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Colors
+http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Colors Bangla Cinema
+http://208.86.19.13:81/907.stream/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Colors HD
+http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8?token=test
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Colors HD
+http://175.107.244.52:4455/play/a010/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", COLORS HD
+http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", COMEDY CEN
+http://175.107.244.52:4455/play/a022/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", DBC
+http://208.86.19.13:81/614.stream/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", DBC News
+http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Deepto TV  
+http://208.86.19.13:81/677.stream/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Deepto TV
+https://bd.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Desh Tv
+http://208.86.19.13:81/661.stream/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", DesheBideshe TV
+http://ipm.oncast.me:1932/iplived/iptvdeshebideshe.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", DesheBideshe TV
+http://208.86.19.13:81/505.stream/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", DESHI TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", DESHI TV
+http://208.86.19.13:81/514.stream/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Discovery HD
+http://175.107.244.52:4455/play/a01v/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Disney
+http://175.107.244.52:4455/play/a03g/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Disney Chan
+http://175.107.244.52:4455/play/a03e/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", DUBAI SPORTS
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Duronto Tv
+http://89.187.185.89:3232/ban-duronto/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", E24
+http://208.86.19.13:81/719.stream/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", E24
+http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8?token=test
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", EDGE
+https://edgesport-samsungus.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", EKATTOR TV
+http://208.86.19.13:81/675.stream/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Ekushay TV(BDIX)
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", EKUSHEY
+http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", EKUSHEY TV
+http://208.86.19.13:81/660.stream/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Ekushey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", EUROSPORT HD
+http://175.107.244.52:4455/play/a013/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", EXpress PK
+http://208.86.19.13:81/643.stream/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Fifa japan
+http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", G TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Gaan Bangla
+http://208.86.19.13:81/612.stream/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", GEO TV
+http://208.86.19.13:81/603.stream/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", HISTORY TV18 HD
+http://175.107.244.52:4455/play/a00o/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Hollywood HD
+http://iptv.prosto.tv:7000/ch50/video.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", HUM Sitary PK
+http://208.86.19.13:81/692.stream/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Hungama TV
+http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", hungama tv
+http://175.107.244.52:4455/play/a03d/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", I IPTV
+http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", IB Tv Usa
+http://208.86.19.13:81/509.stream/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Independent TV
+http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Iqra Bangla
+https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Iqra Bangla
+http://208.86.19.13:81/507.stream/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", iTV Official
+http://162.244.81.142:1935/live/livestream/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", J Sports 1
+http://redlabmcdn.s.llnwi.net/nv02/bs15hd/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", JAGONEWS 24 TV Jagobd
+http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", JAMUNA
+http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Jamuna TV
+http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Khushboo Bangla
+http://idvd.multitvsolution.com/idvo/khushboo.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Live Sports-4
+https://tv.googledrivelinks.com:443/autoq.php?c=Jio_Cricket&e=.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Lotus Macau
+http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", MASTI
+http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8?token=test
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", MBC_korea
+http://123.254.72.24:1935/tvlive/livestream2/chunklist_w431937155.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Meemtv usa
+http://208.86.19.13:81/502.stream/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Mohona
+http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Movie Bangla
+http://iptvbd.jagobd.com:1931/live-orgin/moviebanglalink2.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Movie Bangla TV
+http://iptvbd.jagobd.com:1931/live-orgin/moviebanglalink2.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", MOVIES NOW
+http://175.107.244.52:4455/play/a025/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", MTV
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", MTV 90s
+http://85.17.17.249/mtv_rocks/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", MTV BEATES HD
+http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", MTV BEATS HD
+http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", MTV WMA HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Music India
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", MY TV
+http://208.86.19.13:81/651.stream/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", MY tv
+http://208.86.19.13:81/624.stream/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", MY TV
+http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", NAN IPTV
+https://cdn.appv.jagobd.com:444/live-orgin/nantv.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", NAN TV
+http://live.priyoiptv.com:1932/priyoiptv/nantv.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", NAN TV Jagobd
+http://iptvbd.jagobd.com:1931/live-orgin/nantv.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", NANDAN Official
+https://web.nandansyst.com/hls/nandan_mid/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", NANDAN TV
+http://nandansyst.com/hls/nandan.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Nasa TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", News24
+http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", nick HD+
+http://175.107.244.52:4455/play/a00w/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Nick Jr
+http://175.107.244.52:4455/play/a03l/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Nick Jr. Dora TV
+https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Nick Plutoo
+https://siloh.pluto.tv/lilo/production/Nick/01/master_4.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", NTV
+http://208.86.19.13:81/652.stream/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", O Kids
+http://51.210.199.11/hls/stream.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", O Kids Movies
+http://51.210.199.12/hls/stream.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Peace TV ENG
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Peace TV English HD
+http://175.107.244.52:4455/play/a06m/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Peace TV Urdu HD
+http://175.107.244.52:4455/play/a06n/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Pogo - Rs 4.25
+http://175.107.244.52:4455/play/a03i/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", QAZsport_live
+http://92.46.127.146:8080/qazsport/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", R Plus Gold
+http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Rangeen TV
+http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Romedy NOW
+http://175.107.244.52:4455/play/a026/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Rongeen tv
+http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w816006548.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", ROYEL TV
+https://cdn.appv.jagobd.com:444/live-orgin/royaltv.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", RTK 1 FIFA World Cup ⚽�
+http://146.59.19.1/5002/mpegts?
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", RTV
+http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", RTV
+https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", SA tv
+http://208.86.19.13:81/613.stream/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", SAHARA ONE
+http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8?token=test
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Sangeet Bangla
+https://tv.googledrivelinks.com/live.php?c=Sangeet_Bangla&q=600
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", SATV
+http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", SET HD
+http://175.107.244.52:4455/play/a012/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", SIX HD
+http://175.107.244.52:4455/play/a01l/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Somoy TV
+http://208.86.19.13:81/693.stream/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", SOMOY TV
+http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Somoy TV
+http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Sony AAth
+http://iptvtree.net:8080/AtomicStreams/f584627a/17005
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Sony Max HD
+http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", SONY MAX-2
+http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8?token=test
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Sony Six HD 240P
+https://tv.googledrivelinks.com/live.php?c=Six_HD&q=250&e=.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Sony Six HD 360P
+https://tv.googledrivelinks.com/live.php?c=Six_HD&q=400&e=.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Sony Ten 1 HD
+http://175.107.244.52:4455/play/a01k/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Sony Ten 2 HD
+http://175.107.244.52:4455/play/a00v/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Sony Ten 4
+https://tv.googledrivelinks.com/live.php?c=Ten_4_HD_Tamil&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Sony TV
+http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", SPORT PREMIUM 🇨🇿
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Sports TV1
+http://comag.rip:8000/50738601689735/03751643107136/66469
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Star Bharat HD
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Star Gold
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Star gold 2
+http://144.217.70.181:9587/hin2/STARGOLD2/playlist.m3u8?token=test
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Star Gold SelHD
+http://175.107.244.52:4455/play/a00p/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Star Jalsa sd
+http://102.222.232.18:9981/stream/channelid/1504925537?ticket=56C518288A4256585B8C118EA7CD3307E3929D0D&profile=matroska
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Star Jalsha 21
+http://daddyserver.com:8080/@blades41/qTyguNhMRK/120895
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Star Plus
+http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Star Plus HD
+http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Star Plus HD
+http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Star Plus HD
+http://175.107.244.52:4455/play/a00y/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", STAR PLUS HD
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8?token=test
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Star S Hin 1 HD
+http://175.107.244.52:4455/play/a01m/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Star Sports 2 HD
+http://175.107.244.52:4455/play/a01j/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Star Sports S 1 HD
+http://175.107.244.52:4455/play/a00t/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Star Sports S 2 HD
+http://175.107.244.52:4455/play/a00u/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Star World HD
+http://175.107.244.52:4455/play/a01h/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", StarMov S HD
+http://175.107.244.52:4455/play/a01t/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", TBN24 TV UK Official
+https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Thrill (576p)
+http://210.210.155.37/qwr9ew/s/s34/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", TiMES 24 IPTV
+https://cdn.appv.jagobd.com:444/live-orgin/times24tv.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", TLC HD
+http://175.107.244.52:4455/play/a01p/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Toffee Free 11
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Toffee Free 12
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Toffee Free 13
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_640.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Toffee Free 14
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_360.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Toffee Free 15
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_180.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Toffee Free 2 16
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_1000.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Toffee Free 2 17
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_850.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Toffee Free 2 18
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_640.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Toffee Free 2 19
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_360.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Toffee Free 2 20
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_180.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Toffee Paid 1
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Toffee Paid 10
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_180.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Toffee Paid 2
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_850.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Toffee Paid 3
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_640.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Toffee Paid 4
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_360.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Toffee Paid 5
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_180.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Toffee Paid 6
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_1000.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Toffee Paid 7
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_850.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Toffee Paid 8
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_640.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Toffee Paid 9
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_360.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Tortues Ninja
+https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", TV
+https://live.thairath.co.th/trtv2/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Urdu 1
+http://175.107.244.52:4455/play/a06l/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", UTV ACTION
+http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8?token=test
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", UTV Action
+http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", UTV HD
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", VARENDRA TV
+https://tempskyview.jagobd.com:441/live-orgin/varendratv.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", VOICE TV Jagobd
+http://iptvbd.jagobd.com:1931/live-orgin/voicetv.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Wow Kids
+https://catchup.yuppcdn.net/amazonv2/37/preview/wowkidzhin/master/chunklist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", wow-tv
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", X SPORT 🇷🇺
+http://iptv.prosto.tv:7000/ch109/video.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Xlpore English
+http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Zee 24 Ghonta 
+https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b/index_9.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", ZEE ANMOL CINEMA
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Zee Bangla HD
+https://tv.googledrivelinks.com/live.php?c=Zee_Bangla&q=800&e=.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Zee Bangla HD
+http://iptvtree.net:8080/AtomicStreams/f584627a/145632
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", ZEE Cafe HD
+http://175.107.244.52:4455/play/a01q/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", ZEE CINEMA HD
+http://175.107.244.52:4455/play/a00k/index.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Zee Cinema HD
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", Zee TV HD
+http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8?token=test
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="", ZEE TV HD
+http://175.107.244.52:4455/play/a00z/index.m3u8
