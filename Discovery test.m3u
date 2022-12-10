@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:4
-#EXT-X-STREAM:TYPE=VIDEO
+#EXT-X-MEDIA:TYPE=VIDEO
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_23.m3u8
-#EXT-X-MEDIA:TYPE=AUDIO,CHANNELS="2",NAME="SabbirIPTV",LANGUAGE="ben",DEFAULT=YES,AUTOSELECT=YES,URL="https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_17_0.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,CHANNELS="2",NAME="SabbirIPTV",LANGUAGE="ben",DEFAULT=NO,AUTOSELECT=NO,URL="https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_17_0.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,CHANNELS="2",NAME="SabbirIPTV",LANGUAGE="eng",DEFAULT=NO,AUTOSELECT=NO,URL="https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_11_0.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,CHANNELS="2",NAME="SabbirIPTV",LANGUAGE="hin",DEFAULT=NO,AUTOSELECT=NO,URL="https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_12_0.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,CHANNELS="2",NAME="SabbirIPTV",LANGUAGE="kan",DEFAULT=NO,AUTOSELECT=NO,URL="https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_16_0.m3u8"
