@@ -1,12 +1,140 @@
 #EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:
-https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_24.m3u8
-#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="ben",URI="https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_17_0.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="eng",URI="https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_11_0.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="hin",URI="https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_12_0.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="kan",URI="https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_16_0.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="mal",URI="https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_15_0.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="tam",URI="https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_13_0.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="tel",URI="https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_14_0.m3u8"
+#PLAYLIST:Masrur
+
+#EXTINF:-1 group-title="BD",Independent TV
+http://172.31.169.169/token.php?stream=Independent%20TV
+
+#EXTINF:-1 group-title="BD",Bangla Vision
+http://172.31.169.169/token.php?stream=Bangla%20Vision
+
+#EXTINF:-1 group-title="BD",Gazi TV
+http://172.31.169.169/token.php?stream=Gazi%20TV%20HD
+
+#EXTINF:-1 group-title="BD",Ekushey TV
+http://172.31.169.169/token.php?stream=Ekushey%20Tv
+
+#EXTINF:-1 group-title="BD",ATN Bangla
+http://172.31.169.169/token.php?stream=ATN%20Bangla
+
+#EXTINF:-1 group-title="BD",BTV World
+http://172.31.169.169/token.php?stream=BTV%20World
+
+#EXTINF:-1 group-title="BD",Channel 24
+http://172.31.169.169/token.php?stream=Channel%2024
+
+#EXTINF:-1 group-title="BD",Deepto TV
+http://172.31.169.169/token.php?stream=Deepto%20TV
+
+#EXTINF:-1 group-title="BD",Channel i
+http://172.31.169.169/token.php?stream=Channel%20I
+
+#EXTINF:-1 group-title="BD",DBC News
+http://172.31.169.169/token.php?stream=DBC%20News
+
+#EXTINF:-1 group-title="BD",Desh TV
+http://172.31.169.169/token.php?stream=Desh%20TV
+
+#EXTINF:-1 group-title="BD",ATN News
+http://172.31.169.169/token.php?stream=ATN%20News
+
+#EXTINF:-1 group-title="BD",Maasranga TV
+http://172.31.169.169/token.php?stream=Maasranga
+
+#EXTINF:-1 group-title="BD",Somoy TV
+http://172.31.169.169/token.php?stream=Somoy%20Tv
+
+#EXTINF:-1 group-title="BD",My TV
+http://172.31.169.169/token.php?stream=My%20TV
+
+#EXTINF:-1 group-title="BD",News 24
+http://172.31.169.169/token.php?stream=News%2024
+
+#EXTINF:-1 group-title="BD",RTV
+http://172.31.169.169/token.php?stream=RTV
+
+#EXTINF:-1 group-title="BD",Jamuna TV
+http://172.31.169.169/token.php?stream=Jamuna%20TV
+
+#EXTINF:-1 group-title="BD",Channel 9
+http://172.31.169.169/token.php?stream=Channel%209
+
+#EXTINF:-1 group-title="BD",Asian TV
+http://172.31.169.169/token.php?stream=Asian%20TV
+
+#EXTINF:-1 group-title="BD",Bijoy TV
+http://172.31.169.169/token.php?stream=Bijoy%20TV
+
+#EXTINF:-1 group-title="Kolkata",Colours Bangla
+http://172.31.169.169/token.php?stream=Colors%20Bangla
+
+#EXTINF:-1 group-title="Kolkata",Zee Bangla HD
+http://172.31.169.169/token.php?stream=Zee%20Bangla%20HD
+
+#EXTINF:-1 group-title="Kolkata",Star Jalsha HD
+http://172.31.169.169/token.php?stream=Star%20Jalsha%20HD
+
+#EXTINF:-1 group-title="Kolkata",Enterr 10 Bangla
+http://172.31.169.169/token.php?stream=Enterr%2010
+
+#EXTINF:-1 group-title="Kolkata",Sony Aath
+http://172.31.169.169/token.php?stream=Sony%20Aath
+
+#EXTINF:-1 group-title="Sports",Star Sports Select 1
+http://172.31.169.169/token.php?stream=Star%20Sports%20Select%201
+
+#EXTINF:-1 group-title="Sports",Star Sports Select 2
+http://172.31.169.169/token.php?stream=Star%20Sports%20Select%202
+
+#EXTINF:-1 group-title="Sports",Star Sports 1 HD
+http://172.31.169.169/token.php?stream=Star%20Sports%201%20HD
+
+#EXTINF:-1 group-title="Sports",Star Sports 2 HD
+http://172.31.169.169/token.php?stream=Star%20Sports%202%20HD
+
+#EXTINF:-1 group-title="Sports",Sony Ten 1 HD
+http://172.31.169.169/token.php?stream=Sony%20Ten%201%20HD
+
+#EXTINF:-1 group-title="Sports",Sony Ten 2 HD
+http://172.31.169.169/token.php?stream=Sony%20Ten%202%20HD
+
+#EXTINF:-1 group-title="Sports",Sony Ten 3 HD
+http://172.31.169.169/token.php?stream=Sony%20Ten%203%20HD
+
+#EXTINF:-1 group-title="Sports",T Sports HD
+http://172.31.169.169/token.php?stream=T%20Sports%20HD
+
+#EXTINF:-1 group-title="Sports",T Sports
+http://172.31.169.169/token.php?stream=T%20Sports
+
+#EXTINF:-1 group-title="Hindi",Zee Cinema HD
+http://172.31.169.169/token.php?stream=Zee%20Cinema%20HD
+
+#EXTINF:-1 group-title="Hindi",Sony Max HD
+http://172.31.169.169/token.php?stream=Sony%20Max%20HD
+
+#EXTINF:-1 group-title="Hindi",Indoa Today
+http://172.31.169.169/token.php?stream=India%20Today
+
+#EXTINF:-1 group-title="Hindi",Star Gold HD
+http://172.31.169.169/token.php?stream=Star%20Gold%20HD
+
+#EXTINF:-1 group-title="Hindi",Sony TV HD
+http://172.31.169.169/token.php?stream=Sony%20TV%20HD
+
+#EXTINF:-1 group-title="English",Russia Today
+http://172.31.169.169/token.php?stream=Russia%20Today
+
+#EXTINF:-1 group-title="English",Bloomberg TV
+http://172.31.169.169/token.php?stream=Bloomberg%20TV
+
+#EXTINF:-1 group-title="English",RedBull TV
+http://172.31.169.169/token.php?stream=RedBull%20TV
+
+#EXTINF:-1 group-title="English",Aljazeera
+http://172.31.169.169/token.php?stream=Aljazeera
+
+#EXTINF:-1 group-title="Informative",Animal Planet
+http://172.31.169.169/token.php?stream=Animal%20Planet
+
+#EXTINF:-1 group-title="Informative",Discovery HD
+http://172.31.169.169/token.php?stream=Discovery%20HD
